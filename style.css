@@ -52,7 +52,6 @@ nav {
 }
 .nav-links a:hover { color: var(--accent); }
 
-/* ── Hero ── */
 #hero {
     min-height: 100vh;
     display: grid;
